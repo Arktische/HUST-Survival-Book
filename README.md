@@ -30,3 +30,9 @@ description: 🌲🌲1037号森林生存法则🌲🌲
 > 本指南所提供的信息，使用者须自行保证不会受限于任何限制或禁止使用者使用或分发本指南所提供信息的当地的规定。
 >
 > 凡以任何方式使用或阅读本指南或直接、间接使用本指南中资源者，视为自愿接受本声明的约束。
+
+### 致谢
+
+@Arktische
+
+[xiong35](https://app.gitbook.com/u/Q2XKvaa2GvMAL4FB1dhlcT27jWG3 "mention")
