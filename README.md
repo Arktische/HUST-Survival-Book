@@ -43,8 +43,8 @@ description: 🌲🌲1037号森林生存法则🌲🌲
 
 ### 致谢
 
-inspired by [_SurviveSJTUManual_](https://survivesjtu.gitbook.io/survivesjtumanual/)
+本手册受到[@SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/)的启发，特此致谢
 
-@Arktische 发起者 & maintainer
+[@Arktische](https://github.com/Arktische) 发起者 & maintainer
 
 [xiong35](https://app.gitbook.com/u/Q2XKvaa2GvMAL4FB1dhlcT27jWG3 "mention")前端工作指南
