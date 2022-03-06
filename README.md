@@ -19,6 +19,16 @@ description: 🌲🌲1037号森林生存法则🌲🌲
 
 本指南遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)协议开源
 
+### 如何贡献内容？
+
+#### 投稿&修订
+
+在gitbook上登陆github账号，在本手册空间中进行修改并提起Change Request，我们会收到改动信息并进行review。如果内容合适，维护者会尽快将最新内容呈现到本手册中。
+
+#### 提出质疑
+
+如果你对本手册内容持有怀疑意见，认为某些内容过于片面或者不属实，请在github issue板块具体指出，维护团队随后会尽力寻找相似背景的同学进行重新审核并修改。
+
 ### 免责声明
 
 > 本指南所提供的信息，仅供参考。
@@ -33,6 +43,8 @@ description: 🌲🌲1037号森林生存法则🌲🌲
 
 ### 致谢
 
-@Arktische
+inspired by [_SurviveSJTUManual_](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
-[xiong35](https://app.gitbook.com/u/Q2XKvaa2GvMAL4FB1dhlcT27jWG3 "mention")
+@Arktische 发起者 & maintainer
+
+[xiong35](https://app.gitbook.com/u/Q2XKvaa2GvMAL4FB1dhlcT27jWG3 "mention")前端工作指南
