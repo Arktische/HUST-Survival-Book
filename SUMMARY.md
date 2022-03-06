@@ -13,6 +13,7 @@
 * [互联网技术岗](campus-recruiting/hu-lian-wang-ji-shu-gang/README.md)
   * [后端](campus-recruiting/hu-lian-wang-ji-shu-gang/hou-duan.md)
   * [前端](campus-recruiting/hu-lian-wang-ji-shu-gang/qian-duan.md)
+  * [游戏](campus-recruiting/hu-lian-wang-ji-shu-gang/you-xi.md)
 
 ## 访谈集 <a href="#interview-collection" id="interview-collection"></a>
 
