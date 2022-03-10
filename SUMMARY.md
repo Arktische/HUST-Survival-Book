@@ -3,9 +3,9 @@
 * [README](README.md)
 * [Page 2](page-2.md)
 
-## 立志篇 <a href="#aspire" id="aspire"></a>
+## 立志篇 <a href="#aspire-huster" id="aspire-huster"></a>
 
-* [1037号森林的见面礼](li-zhi-pian/1037-hao-sen-lin-de-jian-mian-li.md)
+* [1037号森林的见面礼](aspire-huster/1037-hao-sen-lin-de-jian-mian-li.md)
 
 ## 工作篇 <a href="#campus-recruiting" id="campus-recruiting"></a>
 
