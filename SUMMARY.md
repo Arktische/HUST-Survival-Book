@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [Page 2](page-2.md)
 
 ## 立志篇 <a href="#aspire-huster" id="aspire-huster"></a>
 
@@ -17,4 +16,5 @@
 
 ## 访谈集 <a href="#interview-collection" id="interview-collection"></a>
 
-* [Page 1](interview-collection/page-1.md)
+* [@Huang](interview-collection/huang.md)
+* [@Xie](interview-collection/xie.md)
