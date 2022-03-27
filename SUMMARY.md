@@ -22,3 +22,7 @@
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
+
+## 转专业篇 <a href="#change-major" id="change-major"></a>
+
+* [Page 1](change-major/page-1.md)
