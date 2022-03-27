@@ -16,6 +16,7 @@
   * [客户端](campus-recruiting/internet-industry-technical-job/client.md)
   * [算法](campus-recruiting/internet-industry-technical-job/algorithm.md)
 * [游戏技术岗](campus-recruiting/game-industry-technical-job.md)
+* [🪧校招广告位](campus-recruiting/xiao-zhao-guang-gao-wei.md)
 
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
