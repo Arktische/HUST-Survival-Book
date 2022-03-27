@@ -18,3 +18,7 @@
 
 * [@Huang](interview-collection/huang.md)
 * [@Xie](interview-collection/xie.md)
+
+## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
+
+* [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
