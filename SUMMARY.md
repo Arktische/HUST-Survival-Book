@@ -10,9 +10,12 @@
 
 * [写在找工前](campus-recruiting/xie-zai-zhao-gong-qian.md)
 * [互联网技术岗](campus-recruiting/hu-lian-wang-ji-shu-gang/README.md)
+  * [基础架构](campus-recruiting/hu-lian-wang-ji-shu-gang/ji-chu-jia-gou.md)
   * [后端](campus-recruiting/hu-lian-wang-ji-shu-gang/hou-duan.md)
   * [前端](campus-recruiting/hu-lian-wang-ji-shu-gang/qian-duan.md)
-  * [游戏](campus-recruiting/hu-lian-wang-ji-shu-gang/you-xi.md)
+  * [客户端](campus-recruiting/hu-lian-wang-ji-shu-gang/ke-hu-duan.md)
+  * [算法](campus-recruiting/hu-lian-wang-ji-shu-gang/suan-fa.md)
+* [游戏技术岗](campus-recruiting/you-xi-ji-shu-gang.md)
 
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
