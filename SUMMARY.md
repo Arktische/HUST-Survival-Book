@@ -16,7 +16,9 @@
 
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
+* [北美申请常见问题FAQ](study-abroad/bei-mei-shen-qing-chang-jian-wen-ti-faq.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
+* [Page 2](study-abroad/page-2.md)
 
 ## 转专业篇 <a href="#change-major" id="change-major"></a>
 
