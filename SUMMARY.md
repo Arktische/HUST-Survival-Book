@@ -25,7 +25,7 @@
 
 ## 转专业篇 <a href="#change-major" id="change-major"></a>
 
-* [Page 1](change-major/page-1.md)
+* [转专业案例分享](change-major/zhuan-zhuan-ye-an-li-fen-xiang.md)
 
 ## 访谈集 <a href="#interview-collection" id="interview-collection"></a>
 
