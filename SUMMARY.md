@@ -18,7 +18,7 @@
 
 * [北美申请常见问题FAQ](study-abroad/faq-for-us-ca.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
-* [Page 2](study-abroad/page-2.md)
+* [🪧留学信息广告位](study-abroad/liu-xue-xin-xi-guang-gao-wei.md)
 
 ## 转专业篇 <a href="#change-major" id="change-major"></a>
 
