@@ -4,6 +4,8 @@ description: 有关后端找工作的一些经验
 
 # 后端
 
+> By [Yuxing Tu](https://app.gitbook.com/u/zCVwg7WHFegf8CEuy6yiP5B39Tu2 "mention")
+
 ### 后端的定位
 
 后端工程师主要进行业务架构设计和业务逻辑实现。各种应用俗称的“后台”就属于后端范畴。
