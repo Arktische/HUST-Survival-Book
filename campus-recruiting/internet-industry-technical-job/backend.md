@@ -41,39 +41,43 @@ description: 有关后端找工作的一些经验
 
 因为专业、背景、基础不同，后端工程师并没有一个通用的学习路线。因此下面把后端的学习路线分为几个方面并对其难度进行打分，读者可以自行组合形成自己的学习路线
 
-#### 1. 源码阅读（进阶，🌟🌟🌟）
+### 1. 源码阅读
 
-**网络:**&#x20;
+#### **网络:**&#x20;
 
-* _nginx：_[_相关资源_](https://static.kancloud.cn/digest/understandingnginx/202586)__
-  * [ ] event部分、upstream部分
-  * [ ] 基础数据数据部分
+* _nginx_🌟🌟🌟
+  * [ ] __[_nginx源码解读_](https://static.kancloud.cn/digest/understandingnginx/202586)
 
-**存储（**🌟🌟🌟**）:**&#x20;
+#### **存储:**&#x20;
 
-* _redis_：
-  * [ ] 数据结构实现部分 ：ZSET、Hash...
-  * [ ] 持久化逻辑
-  * [ ] redis集群
-* leveldb：
-  * [ ] LSM树的实现：MemTable,SSTable部分
-  * [ ] compact逻辑，Write Ahead Log实现等
+* _redis_🌟🌟：
+  * [ ] [https://www.zhihu.com/question/28677076](https://www.zhihu.com/question/28677076)
+  * [ ] [https://redissrc.readthedocs.io/en/latest/](https://redissrc.readthedocs.io/en/latest/)
+* leveldb/boltdb🌟🌟🌟
+  * [ ] [leveldb源码解读系列](https://mrcroxx.github.io/categories/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAleveldb/)
+  * [ ] [boltdb源码解读系列](https://mrcroxx.github.io/categories/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAboltdb/)
 
-**分布式系统（**🌟🌟🌟🌟**）:**&#x20;
+#### **分布式系统:**&#x20;
 
 * CAP定理&#x20;
-* Raft/Paxos：
+* Raft/Paxos🌟🌟🌟:
   * [ ] etcd v0.2.x raft module
-* 2pc（2阶段提交）
-  * [ ] Google percolator论文
+  * [ ] [深入浅出etcd/raft](https://mrcroxx.github.io/categories/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAetcd/raft/)
+* 2PC（2阶段提交）
+  * [ ] [Google percolator论文解读](https://zhuanlan.zhihu.com/p/53197633)
+  * [ ] [Google Percolator论文原文](https://research.google/pubs/pub36726/)
 
-#### 2.项目（必须，🌟🌟）
+### 2.项目
 
-#### 3. 语言（必须）
 
-#### 4. Linux使用（进阶，🌟🌟🌟）
 
-#### 5. 课设与Lab（进阶）
+### 3. 语言
+
+### 4. Linux使用
+
+
+
+### 5. 课设与Lab
 
 
 
