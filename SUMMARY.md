@@ -20,7 +20,7 @@
 
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
-* [雅思备考经验](study-abroad/ya-si-bei-kao-jing-yan.md)
+* [雅思备考经验](study-abroad/prepare-for-IELTS.md)
 * [北美申请常见问题FAQ](study-abroad/faq-for-us-ca.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
 * [申请工具网站合集](study-abroad/shen-qing-gong-ju-wang-zhan-he-ji.md)
