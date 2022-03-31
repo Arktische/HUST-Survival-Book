@@ -23,6 +23,7 @@
 * [雅思备考经验](study-abroad/ya-si-bei-kao-jing-yan.md)
 * [北美申请常见问题FAQ](study-abroad/faq-for-us-ca.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
+* [申请工具网站合集](study-abroad/shen-qing-gong-ju-wang-zhan-he-ji.md)
 * [🪧留学信息广告位](study-abroad/advertising-space-for-study-abroad.md)
 
 ## 转专业篇 <a href="#change-major" id="change-major"></a>
