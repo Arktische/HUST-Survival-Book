@@ -4,7 +4,8 @@
 
 ## 立志篇 <a href="#aspire-huster" id="aspire-huster"></a>
 
-* [1037号森林的见面礼](aspire-huster/1037-hao-sen-lin-de-jian-mian-li.md)
+* [1037号森林的见面礼](aspire-huster/gift-for-meeting-from-hust.md)
+* [大学应该有的思考方式](aspire-huster/da-xue-ying-gai-you-de-si-kao-fang-shi.md)
 
 ## 工作篇 <a href="#campus-recruiting" id="campus-recruiting"></a>
 
