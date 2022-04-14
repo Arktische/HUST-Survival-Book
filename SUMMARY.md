@@ -22,8 +22,8 @@
 ## 留学篇 <a href="#study-abroad" id="study-abroad"></a>
 
 * [雅思备考经验](study-abroad/prepare-for-IELTS/README.md)
-  * [@19级李舒言](study-abroad/prepare-for-IELTS/19-ji-li-shu-yan.md)
-  * [Untitled](study-abroad/prepare-for-IELTS/untitled.md)
+  * [@李舒言](study-abroad/prepare-for-IELTS/li-shu-yan.md)
+  * [@卢昕航](study-abroad/prepare-for-IELTS/lu-xin-hang.md)
 * [北美申请常见问题FAQ](study-abroad/faq-for-us-ca.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
 * [申请工具网站合集](study-abroad/shen-qing-gong-ju-wang-zhan-he-ji.md)
