@@ -27,7 +27,8 @@
 * [北美申请常见问题FAQ](study-abroad/faq-for-us-ca.md)
 * [港新欧申请常见问题FAQ](study-abroad/faq-for-hk-sg-eu.md)
 * [申请工具网站合集](study-abroad/shen-qing-gong-ju-wang-zhan-he-ji.md)
-* [🪧留学信息广告位](study-abroad/advertising-space-for-study-abroad.md)
+* [留学信息广告位](study-abroad/advertising-space-for-study-abroad.md)
+* [暑研陶瓷经验](study-abroad/shu-yan-tao-ci-jing-yan.md)
 
 ## 转专业篇 <a href="#change-major" id="change-major"></a>
 
